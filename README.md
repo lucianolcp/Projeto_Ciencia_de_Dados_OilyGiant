@@ -1,5 +1,5 @@
 ## Visão Geral
-Este projeto tem o objetivo de encontrar os melhores locais para desenvolver novos poços de petróleo, para uma empresa fictícia empresa de mineração chamda OilyGian. Envolve a leitura de dados sobre poços existentes, construção de modelos preditivos e análise de riscos e lucros.
+Este projeto tem o objetivo de encontrar os melhores locais para desenvolver novos poços de petróleo, para uma empresa fictícia de mineração chamada OilyGian. Envolve a leitura de dados sobre poços existentes, construção de modelos preditivos e análise de riscos e lucros.
 
 ## Etapas do Projeto
 1. **Leitura de Dados**: Importar arquivos com dados de poços de petróleo das regiões selecionadas.
