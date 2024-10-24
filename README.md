@@ -8,6 +8,12 @@ Este projeto tem o objetivo de encontrar os melhores locais para desenvolver nov
 4. **Análise de Lucro**: Escolher a região que apresenta o maior lucro total dos poços selecionados.
 5. **Análise de Risco**: Utilizar Bootstrapping para avaliar o lucro potencial e riscos associados.
 
+## Ferramentas e Bibliotecas Utilizadas
+- **Python**: Linguagem principal utilizada para a análise.
+- **Pandas**: Manipulação e análise de dados.
+- **Scikit-learn**: Modelagem preditiva e machine learning.
+- **NumPy**: Computação numérica e suporte a arrays.
+
 ## Descrição dos Dados
 Os dados de exploração geológica estão disponíveis nos seguintes arquivos:
 - `geo_data_0.csv`
@@ -36,13 +42,8 @@ Os dados de exploração geológica estão disponíveis nos seguintes arquivos:
 5. **Análise de Riscos**:
    - Utilizar Bootstrapping para calcular distribuição de lucros, lucro médio, intervalo de confiança e risco de prejuízo.
 
-## Ferramentas e Bibliotecas Utilizadas
-- **Python**: Linguagem principal utilizada para a análise.
-- **Pandas**: Manipulação e análise de dados.
-- **Scikit-learn**: Modelagem preditiva e machine learning.
-- **NumPy**: Computação numérica e suporte a arrays.
-
 ## Conclusão Final
+
 ### Região Recomendada: Região 1
 
 **Justificativa**:
